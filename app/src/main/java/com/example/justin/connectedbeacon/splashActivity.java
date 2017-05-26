@@ -15,7 +15,7 @@ public class splashActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.activity_splash_screen);
 
         Thread myThread = new Thread()
         {
